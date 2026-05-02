@@ -8,3 +8,8 @@ Operating System Sim – A system simulator developed by Engineer Mostafa AboElm
 ![Screenshot](VISION%20Z_OS/Screen/Screenshot%202026-05-03%20003121.png)
 ![Screenshot](VISION%20Z_OS/Screen/Screenshot%202026-05-03%20003143.png)
 ![Screenshot](VISION%20Z_OS/Screen/Screenshot%202026-05-03%20003157.png)
+![Screenshot](VISION%20Z_OS/Screen/Screenshot%202026-05-03%20003210.png)
+
+![Screenshot](VISION%20Z_OS/Screen/Screenshot%202026-05-03%20003217.png)
+
+![Screenshot](VISION%20Z_OS/Screen/Screenshot%202026-05-03%20003225.png)
